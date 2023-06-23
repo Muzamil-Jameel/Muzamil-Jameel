@@ -1,8 +1,8 @@
-Hi, I'm Muzamil Jamil - 👋 Hi, I’m @Muzamil-Jameel
-Im a tech enthusiast and i love exploring new technologies and softwares- 👀 I’m interested in ...
-I,m currently a computer science engineering student at University Visvesvaraya College Of Engineering- 🌱 I’m currently learning ...
-willing to collaborate on java projects- 💞️ I’m looking to collaborate on ...
-muzamiljameel7@gmail.com- 📫 How to reach me ...
+Hi, I'm Muzamil Jamil.
+Im a tech enthusiast and i love exploring new technologies and softwares.
+I,m currently a computer science engineering student at University Visvesvaraya College Of Engineering-.
+willing to collaborate on java projects.
+How to reach me - muzamiljameel7@gmail.com
 
 <!---
 Muzamil-Jameel/Muzamil-Jameel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
