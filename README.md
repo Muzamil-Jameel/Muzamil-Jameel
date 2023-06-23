@@ -1,7 +1,7 @@
 Hi, I'm Muzamil Jamil.
 Im a tech enthusiast and i love exploring new technologies and softwares.
-I'm currently a computer science engineering student at University Visvesvaraya College Of Engineering-.
-willing to collaborate on java projects.
+I'm currently a computer science engineering student at University Visvesvaraya College Of Engineering.
+I'm willing to collaborate on java projects.
 How to reach me - muzamiljameel7@gmail.com
 
 <!---
